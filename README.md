@@ -1,5 +1,7 @@
             </> COVID-19 Tracker | React Project</>
             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Live Preview https://sanusisusi.github.io/COVID-19-Tracker-React-App
+            
 # A react app created as part of my portfolio project as a Software Developer
     Its get the current upto date situation regarding corona virus pandemic
     around the world.
